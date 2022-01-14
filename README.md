@@ -9,13 +9,13 @@ OS:Ubuntu 20.04
 # 実行方法
 
 コマンドを入力
-cd ~/catkin_ws/src
-git clone -b master https://github.com/ShotaUm/popuppirate.git
-catkin_make
+$cd ~/catkin_ws/src
+$git clone -b master https://github.com/ShotaUm/popuppirate.git
+$catkin_make
 
-roscore
+$roscore
 
-rosrun popuppirate pop_up_2022.py
+$rosrun popuppirate pop_up_2022.py
 
 0~9までランダムな数字を聞かれます。
 乱数で選ばれたある一つの数字を当ててしまったら終了です。
