@@ -9,7 +9,7 @@ OS:Ubuntu 20.04
 # 実行方法
 
   コマンドを入力
-  $cd ~/catkin_ws/src
+    $cd ~/catkin_ws/src
   $git clone -b master https://github.com/ShotaUm/popuppirate.git
   $catkin_make
 
