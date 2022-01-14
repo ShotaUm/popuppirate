@@ -32,6 +32,9 @@ rosrun popuppirate pop_up_2022.py
 4
 君の負けだ
 
+# 参考動画
+https://youtu.be/ebRE607LCJQ
+
 # 引用
 pop_up_2022.py
 "#!/usr/bin/env python3
